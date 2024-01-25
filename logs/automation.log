@@ -1,0 +1,84 @@
+22:51:08.561 [main] INFO  api.test.UserTests - <-------Creating user-------->
+22:51:13.055 [main] INFO  api.test.UserTests - <------- user created-------->
+22:51:13.074 [main] INFO  api.test.UserTests - <-------Read user-------->
+22:51:14.597 [main] INFO  api.test.UserTests - <------- user read-------->
+22:51:14.649 [main] INFO  api.test.UserTests - <-------updating user-------->
+22:51:17.672 [main] INFO  api.test.UserTests - <------- user updated-------->
+22:51:17.678 [main] INFO  api.test.UserTests - <-------Delete user-------->
+22:51:19.179 [main] INFO  api.test.UserTests - <------- user deleted-------->
+19:37:42.993 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Creating user-------->
+19:37:43.569 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Read user-------->
+19:37:43.578 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------updating user-------->
+19:37:43.586 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Delete user-------->
+19:40:07.329 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Creating user-------->
+19:40:07.873 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Read user-------->
+19:40:07.886 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------updating user-------->
+19:40:07.898 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Delete user-------->
+19:46:39.296 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Creating user-------->
+19:46:41.919 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Read user-------->
+19:46:43.284 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------updating user-------->
+19:46:45.757 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Delete user-------->
+19:50:14.071 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Creating user-------->
+19:50:16.438 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Read user-------->
+19:50:17.620 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------updating user-------->
+19:50:19.999 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Delete user-------->
+19:50:35.244 [main] INFO  api.test.UserTests - <-------Creating user-------->
+19:50:37.698 [main] INFO  api.test.UserTests - <------- user created-------->
+19:50:37.711 [main] INFO  api.test.UserTests - <-------Read user-------->
+19:50:39.032 [main] INFO  api.test.UserTests - <------- user read-------->
+19:50:39.038 [main] INFO  api.test.UserTests - <-------updating user-------->
+19:50:41.697 [main] INFO  api.test.UserTests - <------- user updated-------->
+19:50:41.702 [main] INFO  api.test.UserTests - <-------Delete user-------->
+19:50:43.012 [main] INFO  api.test.UserTests - <------- user deleted-------->
+19:51:58.219 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Creating user-------->
+19:52:00.756 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Read user-------->
+19:52:02.146 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------updating user-------->
+19:52:04.813 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Delete user-------->
+19:55:31.209 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Creating user-------->
+19:55:33.529 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Read user-------->
+19:55:34.709 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------updating user-------->
+19:55:37.133 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Delete user-------->
+20:09:51.430 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Creating user-------->
+20:09:53.740 [main] INFO  api.test.UserTestsUsingPropertyFile - <------- user created-------->
+20:09:53.748 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Read user-------->
+20:09:54.954 [main] INFO  api.test.UserTestsUsingPropertyFile - <------- user read-------->
+20:09:54.960 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------updating user-------->
+20:09:57.308 [main] INFO  api.test.UserTestsUsingPropertyFile - <------- user updated-------->
+20:09:57.312 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Delete user-------->
+21:36:53.645 [main] INFO  api.test.UserTests - <-------Creating user-------->
+21:36:56.351 [main] INFO  api.test.UserTests - <------- user created-------->
+21:36:56.365 [main] INFO  api.test.UserTests - <-------Read user-------->
+21:36:57.702 [main] INFO  api.test.UserTests - <------- user read-------->
+21:36:57.705 [main] INFO  api.test.UserTests - <-------updating user-------->
+21:37:00.226 [main] INFO  api.test.UserTests - <------- user updated-------->
+21:37:00.228 [main] INFO  api.test.UserTests - <-------Delete user-------->
+21:37:01.417 [main] INFO  api.test.UserTests - <------- user deleted-------->
+21:37:01.480 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Creating user-------->
+21:37:02.797 [main] INFO  api.test.UserTestsUsingPropertyFile - <------- user created-------->
+21:37:02.799 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Read user-------->
+21:37:03.970 [main] INFO  api.test.UserTestsUsingPropertyFile - <------- user read-------->
+21:37:03.973 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------updating user-------->
+21:37:06.836 [main] INFO  api.test.UserTestsUsingPropertyFile - <------- user updated-------->
+21:37:06.841 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Delete user-------->
+21:41:53.604 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Creating user-------->
+21:41:56.465 [main] INFO  api.test.UserTestsUsingPropertyFile - <------- user created-------->
+21:41:56.481 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Read user-------->
+21:41:57.945 [main] INFO  api.test.UserTestsUsingPropertyFile - <------- user read-------->
+21:41:57.948 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------updating user-------->
+21:42:00.384 [main] INFO  api.test.UserTestsUsingPropertyFile - <------- user updated-------->
+21:42:00.386 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Delete user-------->
+21:56:29.161 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Creating user-------->
+21:56:32.551 [main] INFO  api.test.UserTestsUsingPropertyFile - <------- user created-------->
+21:56:32.562 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Read user-------->
+21:56:33.902 [main] INFO  api.test.UserTestsUsingPropertyFile - <------- user read-------->
+21:56:33.906 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------updating user-------->
+21:56:36.442 [main] INFO  api.test.UserTestsUsingPropertyFile - <------- user updated-------->
+21:56:36.446 [main] INFO  api.test.UserTestsUsingPropertyFile - <-------Delete user-------->
+21:58:23.589 [main] INFO  api.test.UserTests - <-------Creating user-------->
+21:58:27.244 [main] INFO  api.test.UserTests - <------- user created-------->
+21:58:27.256 [main] INFO  api.test.UserTests - <-------Read user-------->
+21:58:28.482 [main] INFO  api.test.UserTests - <------- user read-------->
+21:58:28.485 [main] INFO  api.test.UserTests - <-------updating user-------->
+21:58:31.104 [main] INFO  api.test.UserTests - <------- user updated-------->
+21:58:31.108 [main] INFO  api.test.UserTests - <-------Delete user-------->
+21:58:32.309 [main] INFO  api.test.UserTests - <------- user deleted-------->
