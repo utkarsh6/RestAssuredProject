@@ -73,6 +73,7 @@ public class UserTestsUsingPropertyFile extends UserEndPointsUsingPropertyFile {
 	public void testDeleteUser() {
 		logger.info("<-------Delete user-------->");
 		Response response =UserEndPointsUsingPropertyFile.DeleteUser(this.userPayload.getUsername());
+	
 		Assert.assertEquals(response.getStatusCode(), 200);
 		logger.info("<------- user deleted-------->");
 		

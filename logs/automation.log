@@ -82,3 +82,85 @@
 21:58:31.104 [main] INFO  api.test.UserTests - <------- user updated-------->
 21:58:31.108 [main] INFO  api.test.UserTests - <-------Delete user-------->
 21:58:32.309 [main] INFO  api.test.UserTests - <------- user deleted-------->
+23:59:02.129 [main] INFO  api.test.UserTests - <------Login Test started-------->
+23:59:05.348 [main] INFO  api.test.UserTests - <------- user logged in-------->
+02:19:30.763 [main] INFO  api.test.UserTests - <-------Creating user-------->
+02:19:33.780 [main] INFO  api.test.UserTests - <------- user created-------->
+02:19:33.790 [main] INFO  api.test.UserTests - <-------Read user-------->
+02:19:35.229 [main] INFO  api.test.UserTests - <------- user read-------->
+02:19:35.235 [main] INFO  api.test.UserTests - <-------updating user-------->
+02:19:37.931 [main] INFO  api.test.UserTests - <------- user updated-------->
+02:19:37.952 [main] INFO  api.test.UserTests - <-------Delete user-------->
+02:19:39.172 [main] INFO  api.test.UserTests - <------- user deleted-------->
+02:19:39.181 [main] INFO  api.test.UserTests - <------Login Test started-------->
+02:19:40.418 [main] INFO  api.test.UserTests - <------- user logged in-------->
+02:19:40.436 [main] INFO  api.test.UserTests - <------Logout Test Started------>
+02:20:19.285 [main] INFO  api.test.UserTests - <-------Creating user-------->
+02:20:22.239 [main] INFO  api.test.UserTests - <------- user created-------->
+02:20:22.247 [main] INFO  api.test.UserTests - <-------Read user-------->
+02:20:23.763 [main] INFO  api.test.UserTests - <------- user read-------->
+02:20:23.780 [main] INFO  api.test.UserTests - <-------updating user-------->
+02:20:26.736 [main] INFO  api.test.UserTests - <------- user updated-------->
+02:20:26.747 [main] INFO  api.test.UserTests - <-------Delete user-------->
+02:20:28.159 [main] INFO  api.test.UserTests - <------- user deleted-------->
+02:20:28.166 [main] INFO  api.test.UserTests - <------Login Test started-------->
+02:20:29.533 [main] INFO  api.test.UserTests - <------- user logged in-------->
+02:20:29.545 [main] INFO  api.test.UserTests - <------Logout Test Started------>
+02:20:30.900 [main] INFO  api.test.UserTests - <------Logout Test executed------>
+20:04:56.211 [main] INFO  api.test.PetTests - <-------Creating pet-------->
+20:04:59.178 [main] INFO  api.test.PetTests - <------- Pet created-------->
+21:17:39.405 [main] INFO  api.test.PetTests - <-------Creating pet-------->
+21:17:42.074 [main] INFO  api.test.PetTests - <------- Pet created-------->
+21:17:42.084 [main] INFO  api.test.PetTests - <-------Reading pet-------->
+21:17:42.158 [main] INFO  api.test.PetTests - <------ update user started------>
+21:17:43.419 [main] INFO  api.test.PetTests - <------ update user completed------>
+21:17:43.424 [main] INFO  api.test.PetTests - <------delete user started------>
+21:29:21.007 [main] INFO  api.test.PetTests - <-------Creating pet-------->
+21:29:23.609 [main] INFO  api.test.PetTests - <------- Pet created-------->
+21:29:23.619 [main] INFO  api.test.PetTests - <-------Reading pet-------->
+21:29:24.997 [main] INFO  api.test.PetTests - <------- Pet Read-------->
+21:29:25.005 [main] INFO  api.test.PetTests - <------ update user started------>
+21:29:26.256 [main] INFO  api.test.PetTests - <------ update user completed------>
+21:29:26.262 [main] INFO  api.test.PetTests - <------delete user started------>
+21:29:27.476 [main] INFO  api.test.PetTests - <------delete user completed------>
+21:39:47.346 [main] INFO  api.test.UserTests - <-------Creating user-------->
+21:39:49.888 [main] INFO  api.test.UserTests - <------- user created-------->
+21:39:49.911 [main] INFO  api.test.UserTests - <-------Read user-------->
+21:39:51.115 [main] INFO  api.test.UserTests - <------- user read-------->
+21:39:51.119 [main] INFO  api.test.UserTests - <-------updating user-------->
+21:39:53.446 [main] INFO  api.test.UserTests - <------- user updated-------->
+21:39:53.450 [main] INFO  api.test.UserTests - <-------Delete user-------->
+21:39:54.895 [main] INFO  api.test.UserTests - <------- user deleted-------->
+21:39:54.902 [main] INFO  api.test.UserTests - <------Login Test started-------->
+21:39:56.096 [main] INFO  api.test.UserTests - <------- user logged in-------->
+21:39:56.100 [main] INFO  api.test.UserTests - <------Logout Test Started------>
+21:39:57.316 [main] INFO  api.test.UserTests - <------Logout Test executed------>
+21:39:57.367 [main] INFO  api.test.PetTests - <-------Creating pet-------->
+21:39:58.704 [main] INFO  api.test.PetTests - <------- Pet created-------->
+21:39:58.707 [main] INFO  api.test.PetTests - <-------Reading pet-------->
+21:40:00.026 [main] INFO  api.test.PetTests - <------- Pet Read-------->
+21:40:00.029 [main] INFO  api.test.PetTests - <------ update user started------>
+21:40:01.184 [main] INFO  api.test.PetTests - <------ update user completed------>
+21:40:01.189 [main] INFO  api.test.PetTests - <------delete user started------>
+21:40:02.512 [main] INFO  api.test.PetTests - <------delete user completed------>
+22:09:08.665 [main] INFO  api.test.PetTests - <-------Creating pet-------->
+22:09:11.184 [main] INFO  api.test.PetTests - <------- Pet created-------->
+22:09:11.189 [main] INFO  api.test.PetTests - <-------Reading pet-------->
+22:09:12.546 [main] INFO  api.test.PetTests - <------- Pet Read-------->
+22:09:12.552 [main] INFO  api.test.PetTests - <------ update user started------>
+22:09:13.858 [main] INFO  api.test.PetTests - <------ update user completed------>
+22:09:13.865 [main] INFO  api.test.PetTests - <------delete user started------>
+22:09:15.219 [main] INFO  api.test.PetTests - <------delete user completed------>
+22:09:15.224 [main] INFO  api.test.PetTests - <-------Uploading image for pet-------->
+22:11:10.615 [main] INFO  api.test.PetTests - <-------Creating pet-------->
+22:11:13.043 [main] INFO  api.test.PetTests - <------- Pet created-------->
+22:11:13.051 [main] INFO  api.test.PetTests - <-------Reading pet-------->
+22:11:14.407 [main] INFO  api.test.PetTests - <------- Pet Read-------->
+22:11:14.411 [main] INFO  api.test.PetTests - <------ update user started------>
+22:11:15.710 [main] INFO  api.test.PetTests - <------ update user completed------>
+22:11:15.716 [main] INFO  api.test.PetTests - <------delete user started------>
+22:11:17.037 [main] INFO  api.test.PetTests - <------delete user completed------>
+22:11:17.042 [main] INFO  api.test.PetTests - <-------Uploading image for pet-------->
+22:11:20.282 [main] INFO  api.test.PetTests - <------- Image uploaded for pet-------->
+00:55:51.128 [main] INFO  api.test.UserTests - <------Create user List started------>
+00:55:54.042 [main] INFO  api.test.UserTests - <------- Users created with list-------->

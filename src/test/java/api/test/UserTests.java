@@ -16,7 +16,7 @@ public class UserTests {
 	
 	Faker faker ;
 	User userPayload ;
-	public Logger logger;
+  Logger logger;
 	
 	@BeforeClass
 	public void setup() {
@@ -77,6 +77,60 @@ public class UserTests {
 		
 		
 		
+	}
+	
+	@Test (priority = 5)
+	public void testLogin() {
+		logger.info("<------Login Test started-------->");
+		String username="Utkarsh";
+		 userPayload.setPassword(faker.internet().password(6,10));
+		Response response= UserEndPoints.LoginUser(username, this.userPayload.getPassword());
+		 response.then().log().all();
+	        Assert.assertEquals(response.getStatusCode(), 200);
+	        logger.info("<------- user logged in-------->");
+		
+	}
+	@Test(priority = 6)
+	public void testLogout() {
+		logger.info("<------Logout Test Started------>");
+//		String  username="Utkarsh";
+		Response response= UserEndPoints.LogoutUser();
+		response.then().log().all();
+		
+		Assert.assertEquals(response.getStatusCode(), 200);
+		logger.info("<------Logout Test executed------>");
+		
+		
+	}
+	@Test(priority = 7)
+	public void testCreateUserLIst() {
+		logger.info("<------Create user List started------>");
+		User[] userList= new User[2];
+		userList[0]= createUser();
+		userList[1]=createUser();
+		
+		Response response=  UserEndPoints.createUserwithList(userList);
+        response.then().log().all();
+
+        Assert.assertEquals(response.getStatusCode(), 200);
+        logger.info("<------- Users created with list-------->");
+		
+		                          
+		
+	}
+
+	private User createUser() {
+		// TODO Auto-generated method stub
+		User user = new User();
+        user.setId(faker.idNumber().hashCode());
+        user.setEmail(faker.internet().safeEmailAddress());
+        user.setUsername(faker.name().username());
+        user.setFirstName(faker.name().firstName());
+        user.setLastName(faker.name().lastName());
+        user.setPassword(faker.internet().password(6, 10));
+        user.setPhone(faker.phoneNumber().cellPhone());
+		
+		return user;
 	}
 	
 	
