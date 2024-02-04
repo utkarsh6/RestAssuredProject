@@ -164,3 +164,51 @@
 22:11:20.282 [main] INFO  api.test.PetTests - <------- Image uploaded for pet-------->
 00:55:51.128 [main] INFO  api.test.UserTests - <------Create user List started------>
 00:55:54.042 [main] INFO  api.test.UserTests - <------- Users created with list-------->
+21:19:08.106 [main] INFO  api.test.UserTests - <-------Creating user-------->
+21:19:11.075 [main] INFO  api.test.UserTests - <------- user created-------->
+21:19:11.131 [main] INFO  api.test.UserTests - <-------Read user-------->
+21:19:12.529 [main] INFO  api.test.UserTests - <------- user read-------->
+21:19:12.536 [main] INFO  api.test.UserTests - <-------updating user-------->
+21:19:15.339 [main] INFO  api.test.UserTests - <------- user updated-------->
+21:19:15.345 [main] INFO  api.test.UserTests - <-------Delete user-------->
+21:19:16.688 [main] INFO  api.test.UserTests - <------- user deleted-------->
+21:19:16.700 [main] INFO  api.test.UserTests - <------Login Test started-------->
+21:19:18.111 [main] INFO  api.test.UserTests - <------- user logged in-------->
+21:19:18.170 [main] INFO  api.test.UserTests - <------Logout Test Started------>
+21:19:19.528 [main] INFO  api.test.UserTests - <------Logout Test executed------>
+21:19:19.583 [main] INFO  api.test.UserTests - <------Create user List started------>
+21:19:20.996 [main] INFO  api.test.UserTests - <------- Users created with list-------->
+21:19:21.251 [main] INFO  api.test.PetTests - <-------Creating pet-------->
+21:19:22.651 [main] INFO  api.test.PetTests - <------- Pet created-------->
+21:19:22.662 [main] INFO  api.test.PetTests - <-------Reading pet-------->
+21:19:23.982 [main] INFO  api.test.PetTests - <------- Pet Read-------->
+21:19:24.001 [main] INFO  api.test.PetTests - <------ update user started------>
+21:19:25.404 [main] INFO  api.test.PetTests - <------ update user completed------>
+21:19:25.409 [main] INFO  api.test.PetTests - <------delete user started------>
+21:19:26.729 [main] INFO  api.test.PetTests - <------delete user completed------>
+21:19:26.739 [main] INFO  api.test.PetTests - <-------Uploading image for pet-------->
+21:19:30.081 [main] INFO  api.test.PetTests - <------- Image uploaded for pet-------->
+00:15:05.618 [main] INFO  api.test.UserTests - <-------Creating user-------->
+00:15:09.448 [main] INFO  api.test.UserTests - <------- user created-------->
+00:15:09.467 [main] INFO  api.test.UserTests - <-------Read user-------->
+00:15:10.852 [main] INFO  api.test.UserTests - <------- user read-------->
+00:15:10.854 [main] INFO  api.test.UserTests - <-------updating user-------->
+00:15:14.006 [main] INFO  api.test.UserTests - <------- user updated-------->
+00:15:14.025 [main] INFO  api.test.UserTests - <-------Delete user-------->
+00:15:15.534 [main] INFO  api.test.UserTests - <------- user deleted-------->
+00:15:15.543 [main] INFO  api.test.UserTests - <------Login Test started-------->
+00:15:17.043 [main] INFO  api.test.UserTests - <------- user logged in-------->
+00:15:17.045 [main] INFO  api.test.UserTests - <------Logout Test Started------>
+00:15:18.579 [main] INFO  api.test.UserTests - <------Logout Test executed------>
+00:15:18.602 [main] INFO  api.test.UserTests - <------Create user List started------>
+00:15:20.124 [main] INFO  api.test.UserTests - <------- Users created with list-------->
+00:15:20.211 [main] INFO  api.test.PetTests - <-------Creating pet-------->
+00:15:21.566 [main] INFO  api.test.PetTests - <------- Pet created-------->
+00:15:21.568 [main] INFO  api.test.PetTests - <-------Reading pet-------->
+00:15:23.027 [main] INFO  api.test.PetTests - <------- Pet Read-------->
+00:15:23.030 [main] INFO  api.test.PetTests - <------ update user started------>
+00:15:24.445 [main] INFO  api.test.PetTests - <------ update user completed------>
+00:15:24.447 [main] INFO  api.test.PetTests - <------delete user started------>
+00:15:25.991 [main] INFO  api.test.PetTests - <------delete user completed------>
+00:15:25.994 [main] INFO  api.test.PetTests - <-------Uploading image for pet-------->
+00:15:29.558 [main] INFO  api.test.PetTests - <------- Image uploaded for pet-------->

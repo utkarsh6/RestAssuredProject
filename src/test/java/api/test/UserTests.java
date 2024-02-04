@@ -91,6 +91,7 @@ public class UserTests {
 		
 	}
 	@Test(priority = 6)
+	
 	public void testLogout() {
 		logger.info("<------Logout Test Started------>");
 //		String  username="Utkarsh";

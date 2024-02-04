@@ -8,6 +8,7 @@
     <classes>
       <class name="api.test.UserTests"/> 
       <class name="api.test.PetTests"/>
+      <class name="api.test.StoreTest"/>
       <!-- <class name="api.test.UserTestsUsingPropertyFile"/> -->
       <!-- <class name="api.test.DDTests"/> -->
     </classes>
